@@ -1,7 +1,6 @@
-### Hi there 👋
      
-                 ..ooo@@@XXX%%%xx..
-              .oo@@XXX%x%xxx..     ` .
+                 ..ooo@@@XXX%%%xx..                              - ✨ I have experience
+              .oo@@XXX%x%xxx..     ` .                               angular framework 
             .o@XX%%xx..               ` .
           o@X%..                  ..ooooooo
         .@X%x.                 ..o@@^^   ^^@@o
@@ -26,11 +25,11 @@
                                             
                                             
 
-  to me, you see I need to thank      them,
 
-- ✨ I have experience
 
-- angular framework 
+
+
+
 - spring boot framework
 - react native framework
 - bootstrap framework
