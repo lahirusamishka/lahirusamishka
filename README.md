@@ -1,4 +1,4 @@
-I'm
+### Hi there 👋
 
                                          The Dolphins' Way,
                        In Me          Aspirations of the living
@@ -14,12 +14,6 @@ I'm
        wish to swim with them, nothing   could
      be fonder The dolphins mean so     much
   to me, you see I need to thank      them,
- for showing us how to be                           (Donovan 1997)
-
-                                                            
- 
-                                                                             ▀                      
-### Hi there 👋
 
 - ✨ I have experience
 
