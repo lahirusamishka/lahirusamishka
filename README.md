@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+- ✨ I have experience
+  angular framework (6-10)
+  spring boot framework
+  react native framework
+  bootstrap framework
+
+- 🔭 I’m currently working on ...
+  Laravel App
+- 🌱 I’m currently learning ...
+  Laravel framework
+
 <!--
 **lahirusamishka/lahirusamishka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
