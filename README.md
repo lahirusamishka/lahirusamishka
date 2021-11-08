@@ -1,21 +1,3 @@
-     
-                 ..ooo@@@XXX%%%xx..                              - ✨ I have experience
-              .oo@@XXX%x%xxx..     ` .                               angular framework 
-            .o@XX%%xx..               ` .                            spring boot framework
-          o@X%..                  ..ooooooo                          react native framework
-        .@X%x.                 ..o@@^^   ^^@@o                       bootstrap framework
-      .ooo@@@@@@ooo..      ..o@@^          @X%
-      o@@^^^     ^^^@@@ooo.oo@@^             %                    - 🔭 I’m currently working on ...
-     xzI    -*--      ^^^o^^        --*-     %                       Laravel App
-     @@@o     ooooooo^@@^o^@X^@oooooo     .X%x
-    I@@@@@@@@@XX%%xx  ( o@o )X%x@SAMISHKA@@@X%x
-    I@@@@XX%%xx  oo@@@@X% @@X%x   ^^^@@@@@@@X%x                   - 🌱 I’m currently learning ...
-     @X%xx     o@@@@@@@X% @@XX%%x  )    ^^@X%x                       Laravel framework
-      ^   xx o@@@@@@@@Xx  ^ @XX%%x    xxx
-            o@@^^^ooo I^^ I^o ooo   .  x
-            oo @^ IX      I   ^X  @^ oo
-            IX     U  .        V     IX
-             V     .           .     V
                           _     _     _         
                          (_)   | |   | |        
       ___  __ _ _ __ ___  _ ___| |__ | | ____ _ 
