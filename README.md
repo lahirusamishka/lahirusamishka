@@ -8,6 +8,6 @@
                                             
      -->                                       
 
-✨🌟 I am a software engineer by profession. I will try to simplify the future 🔭 using the 🌱 advanced technology available. Here I have shared some ⚡ projects 🦾 with you and my 📫 youtube channel has also presented some programs. 🪐
+✨🌟 I am a software engineer by profession. I will try to simplify the future 🔭 using the 🌱 advanced technology available. Here I have shared some ⚡ projects with you and 🌏[my youtube channel](https://www.youtube.com/channel/UCO9RfSilGy13fB1vE6CxHxw) has also presented some programs. 
 
 🌕🌖🌗🌘🌑🌒🌓🌔🌙
